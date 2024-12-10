@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="5b111e0783d61210034fc596feaad332" label="Transporto ferroviario" max_length="40" name="x_58872_needit_transporto_ferroviario" type="collection">
+        <element label="Regioni" max_length="40" name="regioni" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Anno" max_length="20" name="anno" type="decimal"/>
+    </element>
+</database>

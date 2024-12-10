@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="DELETE">
+        <inactive>false</inactive>
+        <misc>331.3766</misc>
+        <order>200</order>
+        <published_ref/>
+        <question display_value="Quanta memoria vuoi per il tuo computer HP?">cb15dc49830a5210034fc596feaad308</question>
+        <rec_misc>0</rec_misc>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-21 14:56:39</sys_created_on>
+        <sys_id>ddf59089830a5210034fc596feaad3a0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>8GB</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>question_choice_ddf59089830a5210034fc596feaad3a0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-21 14:56:39</sys_updated_on>
+        <text>8GB</text>
+        <value>8</value>
+    </question_choice>
+    <fx_price action="DELETE" query="id=ddf59089830a5210034fc596feaad3a0"/>
+    <fx_price action="DELETE">
+        <amount>350</amount>
+        <currency display_value="USD">USD</currency>
+        <field>misc</field>
+        <id>ddf59089830a5210034fc596feaad3a0</id>
+        <parent/>
+        <reference_amount>350</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-21 14:56:39</sys_created_on>
+        <sys_id>5c86100d830a5210034fc596feaad3eb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-21 14:56:39</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="DELETE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>rec_misc</field>
+        <id>ddf59089830a5210034fc596feaad3a0</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-21 14:56:39</sys_created_on>
+        <sys_id>1486100d830a5210034fc596feaad3eb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-21 14:56:39</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>0b4684521bb27d906a85eb9b2d4bcb05</instance_id>
+        <instance_name>dev230316</instance_name>
+        <name>question_choice_ddf59089830a5210034fc596feaad3a0</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice"><question_choice action="INSERT_OR_UPDATE"><inactive>false</inactive><misc>331.3766</misc><order>200</order><published_ref/><question display_value="Quanta memoria vuoi per il tuo computer HP?">cb15dc49830a5210034fc596feaad308</question><rec_misc>0</rec_misc><sys_class_name>question_choice</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-21 14:56:39</sys_created_on><sys_id>ddf59089830a5210034fc596feaad3a0</sys_id><sys_mod_count>0</sys_mod_count><sys_name>8GB</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>question_choice_ddf59089830a5210034fc596feaad3a0</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-11-21 14:56:39</sys_updated_on><text>8GB</text><value>8</value></question_choice><fx_price action="delete_multiple" query="id=ddf59089830a5210034fc596feaad3a0"/><fx_price action="INSERT_OR_UPDATE"><amount>350</amount><currency display_value="USD">USD</currency><field>misc</field><id>ddf59089830a5210034fc596feaad3a0</id><parent/><reference_amount>350</reference_amount><reference_currency display_value="USD">USD</reference_currency><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-21 14:56:39</sys_created_on><sys_id>5c86100d830a5210034fc596feaad3eb</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-11-21 14:56:39</sys_updated_on><table>question_choice</table><type>calculated</type></fx_price><fx_price action="INSERT_OR_UPDATE"><amount>0</amount><currency display_value="USD">USD</currency><field>rec_misc</field><id>ddf59089830a5210034fc596feaad3a0</id><parent/><reference_amount>0</reference_amount><reference_currency display_value="USD">USD</reference_currency><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-21 14:56:39</sys_created_on><sys_id>1486100d830a5210034fc596feaad3eb</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-11-21 14:56:39</sys_updated_on><table>question_choice</table><type>calculated</type></fx_price></record_update>]]></payload>
+        <payload_hash>-1581716095</payload_hash>
+        <record_name>8GB</record_name>
+        <reverted_from/>
+        <source>c2862cb583b51210034fc596feaad398</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-21 14:56:40</sys_created_on>
+        <sys_id>9086100d830a5210034fc596feaad3ef</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1934f39ac9c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-21 14:56:40</sys_updated_on>
+        <type>Question Choice</type>
+        <update_guid>9486100d540a52104ae2ebbe5b44d9ee</update_guid>
+        <update_guid_history>9486100d540a52104ae2ebbe5b44d9ee:-1581716095</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="8GB">3727980d830a5210034fc596feaad37f</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-21 14:59:38</sys_created_on>
+        <sys_db_object display_value="" name="question_choice">question_choice</sys_db_object>
+        <sys_id>6430622d22d8474093c9aa214ca09000</sys_id>
+        <sys_metadata>ddf59089830a5210034fc596feaad3a0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>8GB</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent display_value="Quanta memoria vuoi per il tuo computer HP?">cb15dc49830a5210034fc596feaad308</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>question_choice_ddf59089830a5210034fc596feaad3a0</sys_update_name>
+        <sys_update_version display_value="question_choice_ddf59089830a5210034fc596feaad3a0">9086100d830a5210034fc596feaad3ef</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-21 14:59:38</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

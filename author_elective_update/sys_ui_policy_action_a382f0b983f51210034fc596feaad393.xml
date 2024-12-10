@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="DELETE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>short_description</field>
+        <field_message/>
+        <field_message_type>none</field_message_type>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-11 14:39:21</sys_created_on>
+        <sys_id>a382f0b983f51210034fc596feaad393</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>short_description</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ui_policy_action_a382f0b983f51210034fc596feaad393</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-11 14:39:21</sys_updated_on>
+        <table>x_58872_needit_needit</table>
+        <ui_policy display_value="TRACCIA 15.1: Far apparire una stringa a piacere nel campo “short description” (in un record già esistente nella tabella NeedIts), quando viene impostato il valore Due date con il giorno di oggi.">6dbfa07583f51210034fc596feaad39c</ui_policy>
+        <value/>
+        <value_action>ignore</value_action>
+        <visible>true</visible>
+    </sys_ui_policy_action>
+    <sys_translated_text action="DELETE" query="documentkey=a382f0b983f51210034fc596feaad393"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>0b4684521bb27d906a85eb9b2d4bcb05</instance_id>
+        <instance_name>dev230316</instance_name>
+        <name>sys_ui_policy_action_a382f0b983f51210034fc596feaad393</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action"><sys_ui_policy_action action="INSERT_OR_UPDATE"><cleared>false</cleared><disabled>ignore</disabled><field>short_description</field><field_message/><field_message_type>none</field_message_type><mandatory>ignore</mandatory><sys_class_name>sys_ui_policy_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-11 14:39:21</sys_created_on><sys_id>a382f0b983f51210034fc596feaad393</sys_id><sys_mod_count>0</sys_mod_count><sys_name>short_description</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ui_policy_action_a382f0b983f51210034fc596feaad393</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-11-11 14:39:21</sys_updated_on><table>x_58872_needit_needit</table><ui_policy display_value="TRACCIA 15.1: Far apparire una stringa a piacere nel campo “short description” (in un record già esistente nella tabella NeedIts), quando viene impostato il valore Due date con il giorno di oggi.">6dbfa07583f51210034fc596feaad39c</ui_policy><value/><value_action>ignore</value_action><visible>true</visible></sys_ui_policy_action><sys_translated_text action="delete_multiple" query="documentkey=a382f0b983f51210034fc596feaad393"/></record_update>]]></payload>
+        <payload_hash>515174884</payload_hash>
+        <record_name>short_description</record_name>
+        <reverted_from/>
+        <source>c2862cb583b51210034fc596feaad398</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-11 14:39:21</sys_created_on>
+        <sys_id>1da2fcf583f51210034fc596feaad3b2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1931baa3b6a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-11 14:39:21</sys_updated_on>
+        <type>UI Policy Action</type>
+        <update_guid>11a2fcf5fdf51210f68953b419d213b2</update_guid>
+        <update_guid_history>11a2fcf5fdf51210f68953b419d213b2:515174884</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-11 14:44:57</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_policy_action">sys_ui_policy_action</sys_db_object>
+        <sys_id>a19d6728746e446598c29f4261fc4359</sys_id>
+        <sys_metadata>a382f0b983f51210034fc596feaad393</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>short_description</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent display_value="">6dbfa07583f51210034fc596feaad39c</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ui_policy_action_a382f0b983f51210034fc596feaad393</sys_update_name>
+        <sys_update_version display_value="sys_ui_policy_action_a382f0b983f51210034fc596feaad393">1da2fcf583f51210034fc596feaad3b2</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-11 14:44:57</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

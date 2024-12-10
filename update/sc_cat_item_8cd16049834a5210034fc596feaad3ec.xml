@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item">
+    <sc_cat_item action="INSERT_OR_UPDATE">
+        <access_type>restricted</access_type>
+        <active>true</active>
+        <availability>on_desktop</availability>
+        <billable>false</billable>
+        <category display_value="Hardware">d258b953c611227a0146101fb1be7c31</category>
+        <checked_out/>
+        <cost>0</cost>
+        <custom_cart/>
+        <delivery_plan display_value="DEFAULT">523da512c611228900811a37c97c2014</delivery_plan>
+        <delivery_plan_script/>
+        <delivery_time>1970-01-03 00:00:00</delivery_time>
+        <description><![CDATA[<p>Magic Mouse è wireless e ricaricabile. Ha una base di appoggio stabile che scivola alla perfezione sulla scrivania, e sulla superficie Multi-Touch puoi compiere gesti intuitivi come sfogliare le pagine web o scorrere documenti.</p>]]></description>
+        <display_price_property>non_zero</display_price_property>
+        <entitlement_script/>
+        <flow_designer_flow/>
+        <fulfillment_automation_level>unspecified</fulfillment_automation_level>
+        <group/>
+        <hide_sp>false</hide_sp>
+        <icon/>
+        <ignore_price>false</ignore_price>
+        <image/>
+        <location/>
+        <make_item_non_conversational>false</make_item_non_conversational>
+        <mandatory_attachment>false</mandatory_attachment>
+        <meta/>
+        <mobile_hide_price>false</mobile_hide_price>
+        <mobile_picture/>
+        <mobile_picture_type>use_desktop_picture</mobile_picture_type>
+        <model/>
+        <name>Mouse Apple</name>
+        <no_attachment_v2>false</no_attachment_v2>
+        <no_cart>false</no_cart>
+        <no_cart_v2>false</no_cart_v2>
+        <no_delivery_time_v2>false</no_delivery_time_v2>
+        <no_order>false</no_order>
+        <no_order_now>false</no_order_now>
+        <no_proceed_checkout>false</no_proceed_checkout>
+        <no_quantity>false</no_quantity>
+        <no_quantity_v2>false</no_quantity_v2>
+        <no_save_as_draft>false</no_save_as_draft>
+        <no_search>false</no_search>
+        <no_wishlist_v2>false</no_wishlist_v2>
+        <omit_price>false</omit_price>
+        <order>0</order>
+        <ordered_item_link/>
+        <owner display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</owner>
+        <picture>1e13e049834a5210034fc596feaad37e</picture>
+        <preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=8cd16049834a5210034fc596feaad3ec&amp;sysparm_preview=true", "summary");</preview>
+        <price>73.976</price>
+        <published_ref/>
+        <recurring_frequency/>
+        <recurring_price>0</recurring_price>
+        <request_method/>
+        <roles/>
+        <sc_catalogs>e0d08b13c3330100c8b837659bba8fb4</sc_catalogs>
+        <sc_ic_item_staging/>
+        <sc_ic_version/>
+        <sc_template/>
+        <short_description>APPLE Magic Mouse Bianco</short_description>
+        <show_variable_help_on_load>false</show_variable_help_on_load>
+        <start_closed>false</start_closed>
+        <state/>
+        <sys_class_name>sc_cat_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-21 15:51:29</sys_created_on>
+        <sys_id>8cd16049834a5210034fc596feaad3ec</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>Mouse Apple</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sc_cat_item_8cd16049834a5210034fc596feaad3ec</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-21 16:09:25</sys_updated_on>
+        <taxonomy_topic/>
+        <template/>
+        <template_manager_roles/>
+        <type>item</type>
+        <use_sc_layout>true</use_sc_layout>
+        <vendor/>
+        <version>6</version>
+        <visible_bundle>true</visible_bundle>
+        <visible_guide>true</visible_guide>
+        <visible_standalone>true</visible_standalone>
+        <workflow/>
+    </sc_cat_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=8cd16049834a5210034fc596feaad3ec"/>
+    <fx_price action="delete_multiple" query="id=8cd16049834a5210034fc596feaad3ec"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>70</amount>
+        <currency display_value="EUR">EUR</currency>
+        <field>price</field>
+        <id>8cd16049834a5210034fc596feaad3ec</id>
+        <parent/>
+        <reference_amount>73.934</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-21 15:51:30</sys_created_on>
+        <sys_id>270368c1834a5210034fc596feaad3e1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-21 15:51:30</sys_updated_on>
+        <table>sc_cat_item</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>recurring_price</field>
+        <id>8cd16049834a5210034fc596feaad3ec</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-21 15:51:30</sys_created_on>
+        <sys_id>a703a80d834a5210034fc596feaad3cf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-21 15:51:30</sys_updated_on>
+        <table>sc_cat_item</table>
+        <type>calculated</type>
+    </fx_price>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color>#f9f9fa</average_image_color>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/jpeg</content_type>
+        <file_name>picture</file_name>
+        <hash>560ac37494c5ae9506ed7fe1363239695d359737ed3a4b548bdf1fb3f268566c</hash>
+        <image_height>225</image_height>
+        <image_width>225</image_width>
+        <size_bytes>1652</size_bytes>
+        <size_compressed>1453</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-21 15:51:40</sys_created_on>
+        <sys_id>1e13e049834a5210034fc596feaad37e</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-21 15:51:40</sys_updated_on>
+        <table_name>ZZ_YYsc_cat_item</table_name>
+        <table_sys_id>8cd16049834a5210034fc596feaad3ec</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAA/w==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="picture" sys_id="1e13e049834a5210034fc596feaad37e">1e13e049834a5210034fc596feaad37e</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-21 15:51:40</sys_created_on>
+        <sys_id>5e13e049834a5210034fc596feaad37e</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>lZR/PNN5HMe/M8yPW4w2aUWRX2mqTcUMqXDhuMREmocWi5ydkZofx6GrKyyh5Y4h4cxjueUmlAlx50d2aIV15FhjLj92k1/le6vrcdzd43o87vX+5/N4vx/v5+f1eX8+jw/YDz4HtN1cDrsAEAgAQBQBgCIgDVBXhanBFfFe7xYwLTU4TEMPgUIhEbq6GzZbbNmw0RStq7t191aTXZZWu/B6hriPcfb7zDFWlhANDQ04HK4Fh6/D6CP191kqhLH8HwIfAAg1YAQYgUKMACUEBIqAgA+BjQqDUMhbq38JoqQMVYEpanbaijwECqjCVFTUoO9rUGXE1t1Y3JEoHSOn4Cxuk4quN+3a0ZNfphQbHzhI7hmZmV2PtFY0I/8OfdesSKMQ/8pDEOAg8BEUojAFRQCOwPIl4ANSwlyLjts2KelX17/zLITpksNivMQV6HXE+yzfi6dLCu/1yinNUF+B/tPruO4ZBr/3TZkh24ZcmiZtMey933zeKyUz289rgGXIxux45Z9QySgmmD2QmyXbZermCcMXpPHY8fmi8X9s2s5hlhf0gYCW5iQI5DEvZtfwy0sudDbH4MZH23RI/PtVGZWww6gsxGn1rEjE9p+MU1ozIe7rub2VPtayCTnVVzqPrx4+FziRuTB0io/L0VkLVytqbRDkc/tmO6JnY9K/yYuuz26qRF66H2CJSinFFsEOe0u2jyM9rvtt8RusGQIBiv0TgbT87kI5VZgz85htBySvsjTCg4i3R2v5HBizlP5MnGCzSPyNFDsIAtQCahvb7lCr0fMcNsvZLYrfSreFuZVWiN1SMBOew7z8N4tJN3MTG+kVEka76+faawZeHVlVGWBpNV3tJH4Z/+y1aLbKMWyIsvjtrE9sblig2Gs7nmbRQXeKoVWZj202cSaScnqOEEXzg4WdMm9O8XA4PVimenUNUJn4iSSU98ReEpraNTCft0K9FdmaShEJfk80jvA5m0uo62D5BGUzHTyd+nJk4g46zNNPUtzhO9ugZsq5Oz1H+H7RQoFfYh17fSF87VNyJg+9OhNCHoo9TWgopDo+kmdkMRRYwcRGIWpMrCZ2rnM1HxtDibEVHXQVcUxbbQdf75Yer++zYekiWRbFE/25cPpO+dM10FNDsWdOhLyFcgrphYU9FcywIYlEHu6jnRuenEbTpLF8xIQUGSdjIlqMTeXcXiaBgN+if93ECgbtsOwnMGTDk41Wb0jJcu9UHMcKnSf9mY72XLYFAXylu4MIBEosRn8U3pxjG90sq/Q5oEsiHee4M0ux1c2eFZDxMKlH3R2Sya9BD++pPj1K4G2TT+tEU6oZps/9CWzaujtygY2QO72HOk2eI7fwGC8K9wqqGx/y8flb+pXMVw+D7AyI4wkDy/cT7B0yhg2wCSDwS6Vt76NaVuYkerRr6Q36bLkXjt1NNL7gTGoNv+yXUdvbCXe/iOqkt3wtKDUQ7ick1uAbE01xO2jMJy9io17J5i4ne5mLN5VcPdvL/2GedJz/aErWeIU4nN3d17B3gXxG2E9u+8phhbbwuGS/WtGqFaNbRTIHYV91hgfFExViP7Vk6yEPYbLMXJnc8uhSbLMgul0kPbE5qF7ApVZQ/a41sVsjwmq7ym1AoO/6MV9XNJLb2xoBw3NIFU4BVRbs1LL8mqUNc5LQ3VPB6Te6KEQsmcBKGqi3d4zPkeaTV6pcTHTWjgJQ0j93nLDH7OgxLVRwfU/DJmkwftvddC4r8sb0jPRx20hSvKbDCS3i6M5Acac9v2CyLQFyEQSMD8yFMGa6vcWlo1/AbSOsd85TmgQg4F+8QGmKCe3EOMZnxtUnXTEUGqQt4w7OCFLL0HD1N+0z1udXCvelh/rTT4p4/WImp6LHUbOnxdXLoFsnCXYI2aJvphNl9OBD/95/Chz4A6ka34Z0BgAA</data>
+        <length>1924</length>
+        <position>1</position>
+        <sys_attachment display_value="picture" sys_id="1e13e049834a5210034fc596feaad37e">1e13e049834a5210034fc596feaad37e</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-21 15:51:40</sys_created_on>
+        <sys_id>de13e049834a5210034fc596feaad37e</sys_id>
+    </sys_attachment_doc>
+</record_update>
